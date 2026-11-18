@@ -1,4 +1,6 @@
 // RangeRider round 9 -- washout-micro cbBTC bot for btc-race-24h-20261118-1444.
+// Micro dip re-tuned 3.0% -> 2.5% after validation on this race's dev window:
+// 3.0% has zero trigger bars on newdev (deepest washout 2.69%), 2.5% fires.
 //
 // Round 9 changes (vs round 8 8e74576, which finished the 20261117 race
 // #2,842 of 4,387 at -$10.00, no prize): three stacked failures from that
